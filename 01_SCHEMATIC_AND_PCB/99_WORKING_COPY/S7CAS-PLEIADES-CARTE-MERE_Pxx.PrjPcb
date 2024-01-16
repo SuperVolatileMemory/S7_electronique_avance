@@ -52,6 +52,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GNYTCPOA
+
+[Document2]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_TITLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -68,7 +85,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAPMBNMV
 
-[Document2]
+[Document3]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_OVERVIEW.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -85,7 +102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAF
 
-[Document3]
+[Document4]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank0_1_5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,23 +118,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAG
-
-[Document4]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GNYTCPOA
 
 [Document5]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank2_3_4.SchDoc
