@@ -86,7 +86,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAF
 
 [Document3]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA.SchDoc
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank0_to_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
