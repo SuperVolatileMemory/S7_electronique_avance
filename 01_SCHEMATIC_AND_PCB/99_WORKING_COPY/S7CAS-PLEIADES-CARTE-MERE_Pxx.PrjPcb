@@ -154,23 +154,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAH
 
 [Document7]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_DEBUG_USB.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAI
-
-[Document8]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_POWER_FPGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,6 +169,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAJ
+
+[Document8]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_DEBUG_USB.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAI
 
 [Document9]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_DDR.SchDoc
@@ -426,7 +426,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank2_4.Harness
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank0_1_5.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -443,7 +443,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank0_1_5.Harness
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank2_4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
