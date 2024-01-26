@@ -46,6 +46,7 @@ CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
 XNetsSourceDestinationPrefixes=U, X
 XNetsDiscretesPrefixes=R, L, C, VD
+CurrentVariant=PLEIADES_V1
 
 [Preferences]
 PrefsVaultGUID=
@@ -458,6 +459,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=FD34B500-597C-417C-9523-3577E1AC69DA
+Description=PLEIADES_V1
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
 
 [Parameter1]
 Name=Project_Date
