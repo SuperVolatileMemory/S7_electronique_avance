@@ -1795,11 +1795,12 @@ Net2=NetName=3v3_ISOL|NetColor=$00AFA576
 Net3=NetName=3V3_VCCAUX|NetColor=$007DC493
 Net4=NetName=GND|NetColor=$00434343
 Net5=NetName=ISOL_GND|NetColor=$0030114C
-Net6=NetName=nCS|NetColor=$00434343
-Net7=NetName=VBUS|NetColor=$005C4F13
-Net8=NetName=VDDQ|NetColor=$00F4C2A4
-Net9=NetName=VTT|NetColor=$00BDA6D5
-Net10=NetName=VTT_REF|NetColor=$00C37C8E
+Net6=NetName=M1|NetColor=$00434343
+Net7=NetName=nCS|NetColor=$00434343
+Net8=NetName=VBUS|NetColor=$005C4F13
+Net9=NetName=VDDQ|NetColor=$00F4C2A4
+Net10=NetName=VTT|NetColor=$00BDA6D5
+Net11=NetName=VTT_REF|NetColor=$00C37C8E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
