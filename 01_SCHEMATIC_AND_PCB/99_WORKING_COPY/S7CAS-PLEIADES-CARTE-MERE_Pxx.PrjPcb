@@ -407,7 +407,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XWJXVTLR
 
 [Document22]
 DocumentPath=..\..\06_MAIN_LIBRARIES\S7CAS_LIB2023\S7CAS_LIB2023.SchLib
@@ -424,7 +424,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YUKEDVSF
 
 [Document23]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank0_1_5.Harness
@@ -469,36 +469,36 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=Project_Date
-Value=2024-01-01
+Name=Project_Name
+Value=PLEIADES MOTHERBOARD
 
 [Parameter2]
+Name=Project_Global
+Value=PLEIADES
+
+[Parameter3]
+Name=Project_Group
+Value=P15
+
+[Parameter4]
 Name=Project_Designer1
 Value=Julien Guay
 
-[Parameter3]
-Name=Project_Designer2
-Value=Vincent Dionne
-
-[Parameter4]
-Name=Project_Designer3
-Value=Olivier Dostie
-
 [Parameter5]
-Name=Project_Global
-Value=XtremUS-3D
+Name=Project_Designer2
+Value=Brahim Khalil Tekil
 
 [Parameter6]
-Name=Project_Group
-Value=P32
+Name=Project_Date
+Value=2024-01-30
 
 [Parameter7]
-Name=Project_Name
-Value=Motherboard
-
-[Parameter8]
 Name=Project_Revision
 Value=1.00
+
+[Parameter8]
+Name=Project_Designer3
+Value= 
 
 [Configuration1]
 Name=Sources
