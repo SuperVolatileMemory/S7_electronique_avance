@@ -460,15 +460,34 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document25]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_MOTEUR.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=FD34B500-597C-417C-9523-3577E1AC69DA
 Description=PLEIADES_V1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=3
+VariationCount=5
 Variation1=Designator=R?|UniqueId=\OARUOJXX|Kind=1|AlternatePart= 
 Variation2=Designator=R26|UniqueId=\SPZNETOO|Kind=1|AlternatePart= 
 Variation3=Designator=R?|UniqueId=\XISUTXNZ|Kind=1|AlternatePart= 
+Variation4=Designator=C?|UniqueId=\ZYUBRZJT|Kind=1|AlternatePart= 
+Variation5=Designator=C?|UniqueId=\JTXBDFRR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
