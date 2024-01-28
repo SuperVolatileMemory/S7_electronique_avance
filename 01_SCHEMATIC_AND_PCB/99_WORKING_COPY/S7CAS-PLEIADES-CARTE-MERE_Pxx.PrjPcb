@@ -465,42 +465,43 @@ UniqueID=FD34B500-597C-417C-9523-3577E1AC69DA
 Description=PLEIADES_V1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
+VariationCount=3
 Variation1=Designator=R?|UniqueId=\OARUOJXX|Kind=1|AlternatePart= 
 Variation2=Designator=R26|UniqueId=\SPZNETOO|Kind=1|AlternatePart= 
+Variation3=Designator=R?|UniqueId=\XISUTXNZ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
-Name=Project_Name
-Value=PLEIADES MOTHERBOARD
-
-[Parameter2]
-Name=Project_Global
-Value=PLEIADES
-
-[Parameter3]
-Name=Project_Group
-Value=P15
-
-[Parameter4]
-Name=Project_Designer1
-Value=Julien Guay
-
-[Parameter5]
-Name=Project_Designer2
-Value=Brahim Khalil Tekil
-
-[Parameter6]
 Name=Project_Date
 Value=2024-01-30
 
+[Parameter2]
+Name=Project_Designer1
+Value=Julien Guay
+
+[Parameter3]
+Name=Project_Designer2
+Value=Brahim Khalil Tekil
+
+[Parameter4]
+Name=Project_Designer3
+Value=
+
+[Parameter5]
+Name=Project_Global
+Value=PLEIADES
+
+[Parameter6]
+Name=Project_Group
+Value=P15
+
 [Parameter7]
-Name=Project_Revision
-Value=1.00
+Name=Project_Name
+Value=PLEIADES MOTHERBOARD
 
 [Parameter8]
-Name=Project_Designer3
-Value= 
+Name=Project_Revision
+Value=1.00
 
 [Configuration1]
 Name=Sources
