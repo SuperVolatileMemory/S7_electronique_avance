@@ -630,6 +630,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document35]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank3.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=FD34B500-597C-417C-9523-3577E1AC69DA
 Description=PLEIADES_V1
@@ -2003,19 +2020,22 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=3V3_DIGITAL|NetColor=$009999EA
-Net2=NetName=3v3_ISOL|NetColor=$00AFA576
-Net3=NetName=3V3_VCCAUX|NetColor=$007DC493
-Net4=NetName=GND|NetColor=$00434343
-Net5=NetName=ISOL_GND|NetColor=$0030114C
-Net6=NetName=M1|NetColor=$00434343
-Net7=NetName=MII.PME_N1/NWAYEN|NetColor=$00DCD1EA
-Net8=NetName=nCS|NetColor=$00434343
-Net9=NetName=PME_N1/NWAYEN|NetColor=$00DCD1EA
-Net10=NetName=VBUS|NetColor=$005C4F13
-Net11=NetName=VDDQ|NetColor=$00F4C2A4
-Net12=NetName=VTT|NetColor=$00BDA6D5
-Net13=NetName=VTT_REF|NetColor=$00C37C8E
+Net1=NetName=1V8_DIGITAL|NetColor=clFuchsia
+Net2=NetName=3V3_DIGITAL|NetColor=$009999EA
+Net3=NetName=3v3_ISOL|NetColor=$00AFA576
+Net4=NetName=3V3_VCCAUX|NetColor=$007DC493
+Net5=NetName=-5V|NetColor=$0099E5FF
+Net6=NetName=5V_A|NetColor=$000090BF
+Net7=NetName=GND|NetColor=$00434343
+Net8=NetName=ISOL_GND|NetColor=$0030114C
+Net9=NetName=M1|NetColor=$00434343
+Net10=NetName=MII.PME_N1/NWAYEN|NetColor=$00DCD1EA
+Net11=NetName=nCS|NetColor=$00434343
+Net12=NetName=PME_N1/NWAYEN|NetColor=$00DCD1EA
+Net13=NetName=VBUS|NetColor=$005C4F13
+Net14=NetName=VDDQ|NetColor=$00F4C2A4
+Net15=NetName=VTT|NetColor=$00BDA6D5
+Net16=NetName=VTT_REF|NetColor=$00C37C8E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
