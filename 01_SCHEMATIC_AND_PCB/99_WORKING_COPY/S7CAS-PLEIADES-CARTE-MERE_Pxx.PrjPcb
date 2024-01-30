@@ -127,7 +127,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -212,7 +212,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=15
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -325,6 +325,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAQ
 
 [Document17]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_ARBRE_CAP_ARBRE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZHOHEXTO
+
+[Document18]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_DDR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,7 +358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_TO_BE_DELETED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,7 +375,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FDRXKVKK
 
-[Document19]
+[Document20]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -375,7 +392,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document21]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FLASH_PHY_CLOCK.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -392,7 +409,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=..\..\06_MAIN_LIBRARIES\S7CAS_LIB2023\S7CAS_LIB2023.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -409,7 +426,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=..\..\06_MAIN_LIBRARIES\S7CAS_LIB2023\S7CAS_LIB2023.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -426,7 +443,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWJXVTLR
 
-[Document23]
+[Document24]
 DocumentPath=..\..\06_MAIN_LIBRARIES\S7CAS_LIB2023\S7CAS_LIB2023.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -443,7 +460,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUKEDVSF
 
-[Document24]
+[Document25]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank0_1_5.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -460,7 +477,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank2_4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -477,7 +494,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_MOTEUR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -494,7 +511,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_DEBUG_USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -511,7 +528,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_CAN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -528,7 +545,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document30]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -545,7 +562,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_CNA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -562,7 +579,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_PHY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
