@@ -658,36 +658,36 @@ Variation5=Designator=C?|UniqueId=\JTXBDFRR|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Project_Date
-Value=2024-01-30
+Name=Project_Revision
+Value=1.00
 
 [Parameter2]
-Name=Project_Designer1
-Value=Julien Guay
-
-[Parameter3]
-Name=Project_Designer2
-Value=Brahim Khalil Tekil
-
-[Parameter4]
-Name=Project_Designer3
-Value=
-
-[Parameter5]
-Name=Project_Global
-Value=PLEIADES
-
-[Parameter6]
-Name=Project_Group
-Value=P15
-
-[Parameter7]
 Name=Project_Name
 Value=PLEIADES MOTHERBOARD
 
+[Parameter3]
+Name=Project_Group
+Value=P15
+
+[Parameter4]
+Name=Project_Global
+Value=PLEIADES
+
+[Parameter5]
+Name=Project_Designer3
+Value=
+
+[Parameter6]
+Name=Project_Designer2
+Value=Brahim Khalil Tekil
+
+[Parameter7]
+Name=Project_Designer1
+Value=Julien Guay
+
 [Parameter8]
-Name=Project_Revision
-Value=1.00
+Name=Project_Date
+Value=2024-01-30
 
 [Configuration1]
 Name=Sources
@@ -1547,7 +1547,7 @@ Type30=1
 Type31=1
 Type32=2
 Type33=0
-Type34=2
+Type34=1
 Type35=1
 Type36=2
 Type37=1
