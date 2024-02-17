@@ -652,12 +652,11 @@ UniqueID=FD34B500-597C-417C-9523-3577E1AC69DA
 Description=PLEIADES_V1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=5
-Variation1=Designator=R?|UniqueId=\OARUOJXX|Kind=1|AlternatePart= 
-Variation2=Designator=R26|UniqueId=\SPZNETOO|Kind=1|AlternatePart= 
-Variation3=Designator=R?|UniqueId=\XISUTXNZ|Kind=1|AlternatePart= 
-Variation4=Designator=C?|UniqueId=\ZYUBRZJT|Kind=1|AlternatePart= 
-Variation5=Designator=C?|UniqueId=\JTXBDFRR|Kind=1|AlternatePart= 
+VariationCount=4
+Variation1=Designator=R51|UniqueId=\SPZNETOO|Kind=1|AlternatePart= 
+Variation2=Designator=R115|UniqueId=\XISUTXNZ|Kind=1|AlternatePart= 
+Variation3=Designator=C196|UniqueId=\ZYUBRZJT|Kind=1|AlternatePart= 
+Variation4=Designator=C198|UniqueId=\JTXBDFRR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
