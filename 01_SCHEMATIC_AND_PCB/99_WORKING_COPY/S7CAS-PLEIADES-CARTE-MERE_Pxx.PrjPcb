@@ -356,23 +356,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XUJKJPLI
 
 [Document19]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_TO_BE_DELETED.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FDRXKVKK
-
-[Document20]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FLASH_PHY_CLOCK.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=..\..\06_MAIN_LIBRARIES\S7CAS_LIB2023\S7CAS_LIB2023.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=..\..\06_MAIN_LIBRARIES\S7CAS_LIB2023\S7CAS_LIB2023.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWJXVTLR
 
-[Document24]
+[Document23]
 DocumentPath=..\..\06_MAIN_LIBRARIES\S7CAS_LIB2023\S7CAS_LIB2023.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,24 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUKEDVSF
 
-[Document25]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank0_1_5.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document26]
+[Document24]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank2_4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document25]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_MOTEUR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document26]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_DEBUG_USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document27]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_CAN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document28]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document29]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_CNA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document30]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_PHY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document31]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_DDR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document32]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_IO_SENSOR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,8 +593,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document33]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank3.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document34]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_Pxx_FPGA_bank0_1_5.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -649,45 +632,44 @@ UniqueID=FD34B500-597C-417C-9523-3577E1AC69DA
 Description=PLEIADES_V1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=5
-Variation1=Designator=R?|UniqueId=\OARUOJXX|Kind=1|AlternatePart= 
-Variation2=Designator=R26|UniqueId=\SPZNETOO|Kind=1|AlternatePart= 
-Variation3=Designator=R?|UniqueId=\XISUTXNZ|Kind=1|AlternatePart= 
-Variation4=Designator=C?|UniqueId=\ZYUBRZJT|Kind=1|AlternatePart= 
-Variation5=Designator=C?|UniqueId=\JTXBDFRR|Kind=1|AlternatePart= 
+VariationCount=4
+Variation1=Designator=R51|UniqueId=\SPZNETOO|Kind=1|AlternatePart= 
+Variation2=Designator=R115|UniqueId=\XISUTXNZ|Kind=1|AlternatePart= 
+Variation3=Designator=C196|UniqueId=\ZYUBRZJT|Kind=1|AlternatePart= 
+Variation4=Designator=C198|UniqueId=\JTXBDFRR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
-Name=Project_Revision
-Value=1.00
+Name=Project_Date
+Value=2024-01-30
 
 [Parameter2]
-Name=Project_Name
-Value=PLEIADES MOTHERBOARD
-
-[Parameter3]
-Name=Project_Group
-Value=P15
-
-[Parameter4]
-Name=Project_Global
-Value=PLEIADES
-
-[Parameter5]
-Name=Project_Designer3
-Value=
-
-[Parameter6]
-Name=Project_Designer2
-Value=Brahim Khalil Tekil
-
-[Parameter7]
 Name=Project_Designer1
 Value=Julien Guay
 
+[Parameter3]
+Name=Project_Designer2
+Value=Brahim Khalil Tekil
+
+[Parameter4]
+Name=Project_Designer3
+Value=
+
+[Parameter5]
+Name=Project_Global
+Value=PLEIADES
+
+[Parameter6]
+Name=Project_Group
+Value=P15
+
+[Parameter7]
+Name=Project_Name
+Value=PLEIADES MOTHERBOARD
+
 [Parameter8]
-Name=Project_Date
-Value=2024-01-30
+Name=Project_Revision
+Value=1.00
 
 [Configuration1]
 Name=Sources
