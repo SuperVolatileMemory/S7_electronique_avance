@@ -79,7 +79,7 @@ AnnotateScope=All
 AnnotateOrder=0
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -96,7 +96,7 @@ AnnotateScope=All
 AnnotateOrder=1
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -113,7 +113,7 @@ AnnotateScope=All
 AnnotateOrder=2
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -130,7 +130,7 @@ AnnotateScope=All
 AnnotateOrder=6
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -147,7 +147,7 @@ AnnotateScope=All
 AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -164,7 +164,7 @@ AnnotateScope=All
 AnnotateOrder=3
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -181,7 +181,7 @@ AnnotateScope=All
 AnnotateOrder=5
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -198,7 +198,7 @@ AnnotateScope=All
 AnnotateOrder=4
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -215,7 +215,7 @@ AnnotateScope=All
 AnnotateOrder=15
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -232,7 +232,7 @@ AnnotateScope=All
 AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -249,7 +249,7 @@ AnnotateScope=All
 AnnotateOrder=8
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -266,7 +266,7 @@ AnnotateScope=All
 AnnotateOrder=9
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -283,7 +283,7 @@ AnnotateScope=All
 AnnotateOrder=10
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -300,7 +300,7 @@ AnnotateScope=All
 AnnotateOrder=11
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -317,7 +317,7 @@ AnnotateScope=All
 AnnotateOrder=12
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -334,7 +334,7 @@ AnnotateScope=All
 AnnotateOrder=16
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -351,7 +351,7 @@ AnnotateScope=All
 AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -368,7 +368,7 @@ AnnotateScope=All
 AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -660,36 +660,36 @@ Variation4=Designator=C198|UniqueId=\JTXBDFRR|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Project_Date
-Value=2024-01-30
+Name=Project_Revision
+Value=1.00
 
 [Parameter2]
-Name=Project_Designer1
-Value=Julien Guay
-
-[Parameter3]
-Name=Project_Designer2
-Value=Brahim Khalil Tekil
-
-[Parameter4]
-Name=Project_Designer3
-Value=
-
-[Parameter5]
-Name=Project_Global
-Value=PLEIADES
-
-[Parameter6]
-Name=Project_Group
-Value=P15
-
-[Parameter7]
 Name=Project_Name
 Value=PLEIADES MOTHERBOARD
 
+[Parameter3]
+Name=Project_Group
+Value=P15
+
+[Parameter4]
+Name=Project_Global
+Value=PLEIADES
+
+[Parameter5]
+Name=Project_Designer3
+Value=
+
+[Parameter6]
+Name=Project_Designer2
+Value=Brahim Khalil Tekil
+
+[Parameter7]
+Name=Project_Designer1
+Value=Julien Guay
+
 [Parameter8]
-Name=Project_Revision
-Value=1.00
+Name=Project_Date
+Value=2024-01-30
 
 [Configuration1]
 Name=Sources
@@ -1734,9 +1734,9 @@ GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 
 [PrjClassGen]
-CompClassManualEnabled=0
-CompClassManualRoomEnabled=0
-NetClassAutoBusEnabled=1
+CompClassManualEnabled=1
+CompClassManualRoomEnabled=1
+NetClassAutoBusEnabled=0
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
