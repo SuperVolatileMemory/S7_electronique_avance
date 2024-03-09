@@ -651,10 +651,10 @@ Description=PLEIADES_V1
 AllowFabrication=0
 ParameterCount=0
 VariationCount=4
-Variation1=Designator=R51|UniqueId=\SPZNETOO|Kind=1|AlternatePart= 
-Variation2=Designator=R115|UniqueId=\XISUTXNZ|Kind=1|AlternatePart= 
-Variation3=Designator=C196|UniqueId=\ZYUBRZJT|Kind=1|AlternatePart= 
-Variation4=Designator=C198|UniqueId=\JTXBDFRR|Kind=1|AlternatePart= 
+Variation1=Designator=R115|UniqueId=\XISUTXNZ|Kind=1|AlternatePart= 
+Variation2=Designator=C196|UniqueId=\ZYUBRZJT|Kind=1|AlternatePart= 
+Variation3=Designator=C198|UniqueId=\JTXBDFRR|Kind=1|AlternatePart= 
+Variation4=Designator=R51|UniqueId=\IXJAEEHD|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
