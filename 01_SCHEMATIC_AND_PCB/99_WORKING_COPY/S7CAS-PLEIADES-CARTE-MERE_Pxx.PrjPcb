@@ -44,8 +44,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-XNetsSourceDestinationPrefixes=U, X
-XNetsDiscretesPrefixes=R, L, C, VD
 CurrentVariant=PLEIADES_V1
 
 [Preferences]
@@ -658,6 +656,10 @@ Variation2=Designator=R115|UniqueId=\XISUTXNZ|Kind=1|AlternatePart=
 Variation3=Designator=C196|UniqueId=\ZYUBRZJT|Kind=1|AlternatePart= 
 Variation4=Designator=C198|UniqueId=\JTXBDFRR|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Design Rule Check - S7CAS-PLEIADES-CARTE-MERE_Pxx.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Project_Date
