@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Bell Centennial Std';
+    src: url('BellCentennialStd-SubCapt.eot');
+    src: local('Bell Centennial Std Sub-Caption'), local('BellCentennialStd-SubCapt'),
+        url('BellCentennialStd-SubCapt.eot?#iefix') format('embedded-opentype'),
+        url('BellCentennialStd-SubCapt.woff2') format('woff2'),
+        url('BellCentennialStd-SubCapt.woff') format('woff'),
+        url('BellCentennialStd-SubCapt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bell Centennial Std';
+    src: url('BellCentennialStd-Address.eot');
+    src: local('Bell Centennial Std Address'), local('BellCentennialStd-Address'),
+        url('BellCentennialStd-Address.eot?#iefix') format('embedded-opentype'),
+        url('BellCentennialStd-Address.woff2') format('woff2'),
+        url('BellCentennialStd-Address.woff') format('woff'),
+        url('BellCentennialStd-Address.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bell Centennial Std';
+    src: url('BellCentennialStd-NameNum.eot');
+    src: local('Bell Centennial Std Name & Number'), local('BellCentennialStd-NameNum'),
+        url('BellCentennialStd-NameNum.eot?#iefix') format('embedded-opentype'),
+        url('BellCentennialStd-NameNum.woff2') format('woff2'),
+        url('BellCentennialStd-NameNum.woff') format('woff'),
+        url('BellCentennialStd-NameNum.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bell Centennial Std';
+    src: url('BellCentennialStd-BdListing.eot');
+    src: local('Bell Centennial Std Bold Listing'), local('BellCentennialStd-BdListing'),
+        url('BellCentennialStd-BdListing.eot?#iefix') format('embedded-opentype'),
+        url('BellCentennialStd-BdListing.woff2') format('woff2'),
+        url('BellCentennialStd-BdListing.woff') format('woff'),
+        url('BellCentennialStd-BdListing.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
