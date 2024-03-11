@@ -645,6 +645,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document36]
+DocumentPath=..\..\06_MAIN_LIBRARIES\S7CAS_LIB2023\PAD_AND_VIAS.PvLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=FD34B500-597C-417C-9523-3577E1AC69DA
 Description=PLEIADES_V1
@@ -2458,7 +2475,7 @@ Net7=NetName=GND|NetColor=$00434343
 Net8=NetName=ISOL_GND|NetColor=$0030114C
 Net9=NetName=M1|NetColor=clBlack
 Net10=NetName=MII.PME_N1/NWAYEN|NetColor=$00DCD1EA
-Net11=NetName=nCS|NetColor=$00434343
+Net11=NetName=nCS|NetColor=clBlack
 Net12=NetName=PME_N1/NWAYEN|NetColor=$00DCD1EA
 Net13=NetName=VBUS|NetColor=$005C4F13
 Net14=NetName=VDDQ|NetColor=$00F4C2A4
