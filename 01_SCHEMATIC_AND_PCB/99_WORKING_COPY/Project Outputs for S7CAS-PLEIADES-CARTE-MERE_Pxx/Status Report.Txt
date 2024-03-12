@@ -1,0 +1,34 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : PCB Document [S7CAS-PLEIADES-CARTE-MERE_Pxx.PcbDoc]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_Top.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_1.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_2.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_3.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_4.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_5.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_6.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_7.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_8.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_9.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_10.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_11.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_12.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_Bot.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Legend_Top.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Legend_Bot.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Soldermask_Top.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Soldermask_Bot.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Paste_Top.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Paste_Bot.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_Profile.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_NPTH_Drill.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx_PTH_Drill.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx.EXTREP]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_Pxx.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 7:43:55 AM On 2024-03-12

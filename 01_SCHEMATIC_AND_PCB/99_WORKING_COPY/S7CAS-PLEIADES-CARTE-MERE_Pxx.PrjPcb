@@ -662,6 +662,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document37]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=FD34B500-597C-417C-9523-3577E1AC69DA
 Description=PLEIADES_V1
@@ -676,6 +693,422 @@ ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Design Rule Check - S7CAS-PLEIADES-CARTE-MERE_Pxx.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G3
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G3
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G4
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G4
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G5
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G5
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G6
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G6
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G7
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G7
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G8
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G8
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G9
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G9
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G10
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G10
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G11
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G11
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G12
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.G12
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GM
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GM
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GM18
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GM18
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GM19
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GM19
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.REP
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx.REP
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\Gerber\S7CAS-PLEIADES-CARTE-MERE_Pxx.REP
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx.REP
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_7.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_7.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_9.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_9.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_10.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_10.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_11.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_11.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_12.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_12.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\GerberX2\S7CAS-PLEIADES-CARTE-MERE_Pxx_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Parameter1]
