@@ -627,6 +627,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document35]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=FD34B500-597C-417C-9523-3577E1AC69DA
 Description=PLEIADES_V1
@@ -638,6 +655,66 @@ Variation2=Designator=R115|UniqueId=\XISUTXNZ|Kind=1|AlternatePart=
 Variation3=Designator=C196|UniqueId=\ZYUBRZJT|Kind=1|AlternatePart= 
 Variation4=Designator=C198|UniqueId=\JTXBDFRR|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx.REP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_Pxx\S7CAS-PLEIADES-CARTE-MERE_Pxx_Soldermask_Top.gbr
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Project_Date
@@ -952,72 +1029,76 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
 OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=GNYTCPOA|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777221~1,16777220~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlotBoardProfile=True|PlotBoardProfileFileName=S7CAS-PLEIADES-CARTE-MERE_Pxx_Profile.gbr|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=S7CAS-PLEIADES-CARTE-MERE_Pxx_Drawing_1.gbr|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair1_Backdrill=False|UncheckPlotDrillDrawingLayerPair1_Checked=False|UncheckPlotDrillDrawingLayerPair1_DrillType=MicroViaDrill|UncheckPlotDrillDrawingLayerPair1_FileName=S7CAS-PLEIADES-CARTE-MERE_Pxx_Drawing_2.gbr|UncheckPlotDrillDrawingLayerPair1_HighLayer=Mid Layer 3|UncheckPlotDrillDrawingLayerPair1_LowLayer=Mid Layer 4|UncheckPlotDrillDrawingLayerPair2_Backdrill=False|UncheckPlotDrillDrawingLayerPair2_Checked=False|UncheckPlotDrillDrawingLayerPair2_DrillType=MicroViaDrill|UncheckPlotDrillDrawingLayerPair2_FileName=S7CAS-PLEIADES-CARTE-MERE_Pxx_Drawing_3.gbr|UncheckPlotDrillDrawingLayerPair2_HighLayer=Mid Layer 4|UncheckPlotDrillDrawingLayerPair2_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=S7CAS-PLEIADES-CARTE-MERE_Pxx_Drillmap_1.gbr|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair1_Backdrill=False|UncheckPlotDrillGuideLayerPair1_Checked=False|UncheckPlotDrillGuideLayerPair1_DrillType=MicroViaDrill|UncheckPlotDrillGuideLayerPair1_FileName=S7CAS-PLEIADES-CARTE-MERE_Pxx_Drillmap_2.gbr|UncheckPlotDrillGuideLayerPair1_HighLayer=Mid Layer 3|UncheckPlotDrillGuideLayerPair1_LowLayer=Mid Layer 4|UncheckPlotDrillGuideLayerPair2_Backdrill=False|UncheckPlotDrillGuideLayerPair2_Checked=False|UncheckPlotDrillGuideLayerPair2_DrillType=MicroViaDrill|UncheckPlotDrillGuideLayerPair2_FileName=S7CAS-PLEIADES-CARTE-MERE_Pxx_Drillmap_3.gbr|UncheckPlotDrillGuideLayerPair2_HighLayer=Mid Layer 4|UncheckPlotDrillGuideLayerPair2_LowLayer=Top Layer|UserLayerName.Caption0=S7CAS-PLEIADES-CARTE-MERE_Pxx_Keep-out.gbr|UserLayerName.Caption1=S7CAS-PLEIADES-CARTE-MERE_Pxx_Paste_Top.gbr|UserLayerName.Caption10=S7CAS-PLEIADES-CARTE-MERE_Pxx_Top_Assembly.gbr|UserLayerName.Caption11=S7CAS-PLEIADES-CARTE-MERE_Pxx_Soldermask_Bot.gbr|UserLayerName.Caption12=S7CAS-PLEIADES-CARTE-MERE_Pxx_Bottom_Courtyard_2.gbr|UserLayerName.Caption13=S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_4.gbr|UserLayerName.Caption14=S7CAS-PLEIADES-CARTE-MERE_Pxx_Route_Tool_Path.gbr|UserLayerName.Caption15=S7CAS-PLEIADES-CARTE-MERE_Pxx_Panel_Outline.gbr|UserLayerName.Caption16=S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_Bot.gbr|UserLayerName.Caption17=S7CAS-PLEIADES-CARTE-MERE_Pxx_Board_Outline.gbr|UserLayerName.Caption18=S7CAS-PLEIADES-CARTE-MERE_Pxx_Top_Courtyard.gbr|UserLayerName.Caption19=S7CAS-PLEIADES-CARTE-MERE_Pxx_Bottom_3D_Models.gbr|UserLayerName.Caption2=S7CAS-PLEIADES-CARTE-MERE_Pxx_Legend_Top.gbr|UserLayerName.Caption20=S7CAS-PLEIADES-CARTE-MERE_Pxx_Bottom_Courtyard.gbr|UserLayerName.Caption21=S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_Top.gbr|UserLayerName.Caption22=S7CAS-PLEIADES-CARTE-MERE_Pxx_Top_Designator.gbr|UserLayerName.Caption23=S7CAS-PLEIADES-CARTE-MERE_Pxx_Legend_Bot.gbr|UserLayerName.Caption24=S7CAS-PLEIADES-CARTE-MERE_Pxx_Pads_Top.gbr|UserLayerName.Caption25=S7CAS-PLEIADES-CARTE-MERE_Pxx_Top_3D_Models.gbr|UserLayerName.Caption26=S7CAS-PLEIADES-CARTE-MERE_Pxx_Bottom_3D_Body.gbr|UserLayerName.Caption27=S7CAS-PLEIADES-CARTE-MERE_Pxx_Bottom_Assembly.gbr|UserLayerName.Caption28=S7CAS-PLEIADES-CARTE-MERE_Pxx_Manufacturing_Notes.gbr|UserLayerName.Caption29=S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_2.gbr|UserLayerName.Caption3=S7CAS-PLEIADES-CARTE-MERE_Pxx_Soldermask_Top.gbr|UserLayerName.Caption30=S7CAS-PLEIADES-CARTE-MERE_Pxx_Top_Assembly_2.gbr|UserLayerName.Caption31=S7CAS-PLEIADES-CARTE-MERE_Pxx_Panel_V-Grove.gbr|UserLayerName.Caption32=S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_1.gbr|UserLayerName.Caption33=S7CAS-PLEIADES-CARTE-MERE_Pxx_Top_Designators.gbr|UserLayerName.Caption34=S7CAS-PLEIADES-CARTE-MERE_Pxx_Top_3D_Body.gbr|UserLayerName.Caption35=S7CAS-PLEIADES-CARTE-MERE_Pxx_Paste_Bot.gbr|UserLayerName.Caption4=S7CAS-PLEIADES-CARTE-MERE_Pxx_Top_Courtyard_2.gbr|UserLayerName.Caption5=S7CAS-PLEIADES-CARTE-MERE_Pxx_Bottom_Designators.gbr|UserLayerName.Caption6=S7CAS-PLEIADES-CARTE-MERE_Pxx_Bottom_Assembly_2.gbr|UserLayerName.Caption7=S7CAS-PLEIADES-CARTE-MERE_Pxx_Pads_Bot.gbr|UserLayerName.Caption8=S7CAS-PLEIADES-CARTE-MERE_Pxx_Copper_Signal_3.gbr|UserLayerName.Caption9=S7CAS-PLEIADES-CARTE-MERE_Pxx_Bottom_Designator.gbr|UserLayerName.Count=36|UserLayerName.Layer0=16973837|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908298|UserLayerName.Layer11=16973835|UserLayerName.Layer12=16908304|UserLayerName.Layer13=16777219|UserLayerName.Layer14=16908295|UserLayerName.Layer15=16908294|UserLayerName.Layer16=16842751|UserLayerName.Layer17=16908293|UserLayerName.Layer18=16908303|UserLayerName.Layer19=16908302|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908305|UserLayerName.Layer21=16777217|UserLayerName.Layer22=16908306|UserLayerName.Layer23=16973831|UserLayerName.Layer24=16973848|UserLayerName.Layer25=16908301|UserLayerName.Layer26=16908309|UserLayerName.Layer27=16908299|UserLayerName.Layer28=16908297|UserLayerName.Layer29=16777220|UserLayerName.Layer3=16973834|UserLayerName.Layer30=16908289|UserLayerName.Layer31=16908296|UserLayerName.Layer32=16777221|UserLayerName.Layer33=16908291|UserLayerName.Layer34=16908308|UserLayerName.Layer35=16973833|UserLayerName.Layer4=16908300|UserLayerName.Layer5=16908292|UserLayerName.Layer6=16908290|UserLayerName.Layer7=16973849|UserLayerName.Layer8=16777218|UserLayerName.Layer9=16908307|DocumentPath=C:\Users\khali\Downloads\study\hiver 2024\GEI 788 & GEI 789\project\pcb part\S7_electronique_avance\01_SCHEMATIC_AND_PCB\99_WORKING_COPY\S7CAS-PLEIADES-CARTE-MERE_Pxx.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
